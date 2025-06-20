@@ -1,0 +1,28 @@
+{
+  "name": "paquete-estadistica-cf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KendoTMJJ/GitHub-Packages.git"
+  },
+  "keywords": [],
+  "author": "Julián Tobito",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/KendoTMJJ/GitHub-Packages/issues"
+  },
+  "homepage": "https://github.com/KendoTMJJ/GitHub-Packages#readme",
+  "description": "Funciones estatídticas y generación de gráficas con Node.js",
+  "dependencies": {
+    "canvas": "^3.1.1",
+    "chart.js": "^4.5.0",
+    "chartjs-node-canvas": "^5.0.0"
+  }
+}
