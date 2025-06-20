@@ -1,5 +1,5 @@
 {
-  "name": "paquete-estadistica-js",
+  "name": "@KendoTMJJ/paquete-estadistica-cf",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,7 @@
     "url": "https://github.com/KendoTMJJ/GitHub-Packages.git"
   },
   "keywords": [],
-  "author": "Julián Tobito",
+  "author": "KendoTMJJ",
   "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
